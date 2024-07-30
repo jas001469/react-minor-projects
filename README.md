@@ -1,6 +1,6 @@
 # Minor React Projects
 This Repo consists of minor react projects like:
--Accordian
+-Accordian, 
 -Random color generator
 
 
